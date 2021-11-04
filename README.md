@@ -50,7 +50,7 @@ psql -U postgres_user_city cities
 ```
 
 ## Endpoints
-<p align=>Os endpoints que executam o cálculo são do tipo "Get" <a href="https://github.com/guilhermefsag/cities-api/blob/master/src/main/java/com/github/guilhermefsag/citiesapi/cities/service/DistanceService.java"> Classe</a> . Uma Query faz o cálculo em milhas e a outra em metros. Os dados necessários serão passados na própria URL utilizando os "IDS" das respectivas cidades.</p>
+<p align=>Os endpoints que executam os cálculos são do tipo "Get" <a href="https://github.com/guilhermefsag/cities-api/blob/master/src/main/java/com/github/guilhermefsag/citiesapi/cities/resources/DistanceResource.java"> Classe</a> . Uma Query faz o cálculo em milhas e a outra em metros. Os dados necessários serão passados na própria URL utilizando o "id" das respectivas cidades.</p>
 
 #### Exemplo cálculo em milhas:
 
