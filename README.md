@@ -1,7 +1,7 @@
 # Cities API
 
 ## Descrição do Projeto
-<p align=>Este projeto consiste em uma API que calcula a distância em milhas ou em metros entre duas cidades. API desenvolvida no Bootcamp 
+<p align=>Este projeto consiste em uma API que calcula a distância em milhas ou em metros entre duas cidades. API desenvolvida durante o Bootcamp 
 NTT DATA Quality Assurance Beginner #3 </p>
 
 ## Requisitos para rodar a API:
